@@ -1,4 +1,4 @@
-## Reducing image
+## Reducing image size
 #### by replacing base image and changing the sequence of commands
 
 `docker build -t flask-sample:0.4 .`
